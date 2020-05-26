@@ -1,5 +1,8 @@
 
 # 全唐诗数据库
+
+[![去井盖讨论](https://ark-perm.17173cdn.com/badge/badge.jpg)](https://jg.17173.com/i/Cvo0xz0o/servers/18/channels/72)
+
 爬取的全唐诗数据库
 
 ## 使用
